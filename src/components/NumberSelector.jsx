@@ -44,6 +44,7 @@ const NumberSelectorContainer = styled.div`
   }
   .err {
     color: red;
+    font-size: 24px;
   }
 `;
 
